@@ -1,0 +1,8 @@
+t=0.5
+a,b
+a,c
+b,d
+c,d
+c,a
+c,b
+d,c
